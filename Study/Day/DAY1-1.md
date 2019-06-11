@@ -12,7 +12,7 @@
 * **Not so good**
 <br>よくないです。
 
-##初対面の質問
+## 初対面の質問
 
 * **Where were you born?**
 <br>どちらの出身ですか？
