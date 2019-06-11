@@ -39,10 +39,10 @@
 <br>趣味は何ですか？
 
 * **I like Playing Game**
-ゲームが好きです。
+<br>ゲームが好きです。
 
 * **How long do you plan to be in Japan?**
-日本にはどのくらいいる予定ですか？
+<br>日本にはどのくらいいる予定ですか？
 
 
 * **Not him**
