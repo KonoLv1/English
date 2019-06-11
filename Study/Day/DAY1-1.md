@@ -1,8 +1,8 @@
 # DAY1-1
 
 * **Not him**
-”Þ‚¶‚á‚È‚¢
+<br> ”Þ‚¶‚á‚È‚¢
 
 * **Not her**
-”Þ—‚¶‚á‚È‚¢
+<br> ”Þ—‚¶‚á‚È‚¢
 
